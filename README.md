@@ -3,6 +3,7 @@
  AfricaNerd - Polls and Vote
  
  Description
+ 
  It’ll consist of two parts:
 
     1. A public site that lets people view polls and vote in them.

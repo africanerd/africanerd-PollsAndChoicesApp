@@ -1,30 +1,17 @@
 # africanerd-firstDjangoApp-v2.1.5
- Application Name
+ Application Name: AfricaNerd - Polls and Vote
  
- AfricaNerd - Polls and Vote
- 
- Description
- 
- It’ll consist of two parts:
-
+ Description: The app consists of two parts:
     1. A public site that lets people view polls and vote in them.
     2. An admin site that lets you add, change, and delete polls.
     
- Database Setup
+ Database Setup: MySQL, running on Apache server
  
- MySQL, running on Apache server
+ Author: AfricaNerd.com
  
- Author
+ Email: info@africanerd.com
  
- AfricaNerd.com
- 
- Email
- 
- info@africanerd.com
- 
- Django Version 
- 
- 2.1.5
+ Django Version: 2.1.5
  
  
  

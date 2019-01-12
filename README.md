@@ -1,4 +1,4 @@
-# africanerd-firstDjangoApp-v2.1.5
+# africanerd-Polls-and-Choices
  Application Name: AfricaNerd - Polls and Vote
  
  Description: The app consists of two parts:
